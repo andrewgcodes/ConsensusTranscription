@@ -3,10 +3,11 @@ Use GPT4 to review and correct speech-to-text outputs from multiple transcriptio
 
 You need Deepgram and OpenAI API keys.
 
-Colab is the easiest way to test ConsensusTranscription for yourself.
+## Colab is the easiest way to test ConsensusTranscription for yourself.
+https://github.com/andrewgcodes/ConsensusTranscription/blob/b8cc869375d7b30e8db604a72f36c3d6df187b1e/ConsensusTranscriptionV1.ipynb
 
 Alternatively:
-To run from command line using v1.py:
+## To run from command line using v1.py:
 
 Install the required packages. You need to have Python installed on your system and the required packages. The required packages are openai, requests, pydub, and rapidfuzz. Install them by running:
 
